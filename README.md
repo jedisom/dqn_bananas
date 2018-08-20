@@ -49,9 +49,6 @@ To set up your computer to run the python code in this repository, follow the in
 
     e.g. `python -m ipykernel install --user --name drlnd --display-name "drlnd"`
 
-    Before running code in a notebook, 
-Kernel
-
 ### Running the Agent
 
 Start by opening a Jupyter Notebook
