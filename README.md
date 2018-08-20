@@ -5,7 +5,7 @@
 
 ### Project Details
 
-In this project a deep neural network reinforcement learning agent learns how to navigate (and collect bananas!) in a large, square world.  The square world environment is provided by Unity's open source Machine Learning Agents (ML-Agents) plugin that enables games and simulations to serve as environments for training intelligent agents.   
+In this project a deep neural network reinforcement learning agent learns how to navigate (and collect bananas) in a large, square world.  The square world environment is provided by Unity's open source [Machine Learning Agents (ML-Agents)](https://github.com/Unity-Technologies/ml-agents) plugin that enables games and simulations to serve as environments for training intelligent agents.   
 
 ![Trained Agent][image1]
 
@@ -49,7 +49,7 @@ To set up your computer to run the python code in this repository, follow the in
 
     e.g. `python -m ipykernel install --user --name drlnd --display-name "drlnd"`
 
-    Before running code in a notebook, change the kernel to match the drlnd environment by using the drop-down Kernel menu.
+    Before running code in a notebook, 
 Kernel
 
 ### Running the Agent
@@ -58,4 +58,5 @@ Start by opening a Jupyter Notebook
 1. Open a command prompt/terminal and type `jupyter notebook`.  If that doesn't work, return to step 3 of "Getting Started" above to successfully install jupyter notebook.
 2. Navigate to the dqn_bananas project folder you cloned from GitHub
 3. Open the `Navigation.ipynb` notebook
-4. Read instructions in the notebook and execute each line of code by pressing `SHIFT + ENTER`
+4. Change the kernel to match the drlnd environment by using the drop-down Kernel menu.
+5. Read instructions in the notebook and execute each line of code by pressing `SHIFT + ENTER`
