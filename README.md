@@ -5,7 +5,7 @@
 
 ### Project Details
 
-In this project a deep neural network reinforcement learning agent learns how to navigate (and collect bananas) in a large, square world.  The square world environment is provided by Unity's open source [Machine Learning Agents (ML-Agents)](https://github.com/Unity-Technologies/ml-agents) plugin that enables games and simulations to serve as environments for training intelligent agents.   
+In this project a deep neural network reinforcement learning agent learns how to navigate (and collect bananas) in a large, square world.  The square world environment is provided by Unity's open source [Machine Learning Agents (ML-Agents)](https://github.com/Unity-Technologies/ml-agents) plugin that enables games and simulations to serve as environments for training intelligent agents.  The solution is based off of an example provided by Udacity in their [Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893).    
 
 ![Trained Agent][image1]
 
